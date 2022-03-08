@@ -1,0 +1,3 @@
+# About-Me
+A little information...
+I learning Git and GitHub
